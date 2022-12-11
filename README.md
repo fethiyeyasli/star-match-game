@@ -1,6 +1,6 @@
 # Star Match Game App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Pick 1 or more number to find total count of different stars in 10 seconds.
 
 ## Available Scripts
 
