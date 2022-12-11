@@ -2,6 +2,9 @@
 
 Pick 1 or more number to find total count of different stars in 10 seconds.
 
+![Ekran Resmi 2022-12-11 15 10 36](https://user-images.githubusercontent.com/36713077/206902779-864a9ef7-b5ed-4027-9896-354a89f6992d.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
